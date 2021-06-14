@@ -1,0 +1,61 @@
+
+
+li {
+display: inline;
+padding: 10px;
+font-size: 20px
+
+}
+
+header{
+  background-color: gray;
+  height: 30px;
+
+}
+
+
+body{
+  background-color: black;
+  padding-left: 80px;
+  padding-top: 10px;
+  
+
+}
+
+#hi{
+  padding: 50px
+}
+
+#mission{
+  padding-right:700px
+}
+#enjoy{
+  padding-right:700px
+}
+#tech{
+  padding-right:800px
+}
+
+img{
+  float: right;
+  
+}
+
+/* footer{
+  text-align: center;
+  color: #fff;
+  background-color: gray;
+  height: 25px;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 0px
+
+  
+} */
+
+
+a {
+  color: orange;
+  text-decoration: none;
+
+}
